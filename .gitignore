@@ -1,3 +1,7 @@
 # git files 
 .gitattributes
 .gitignore
+
+# temporary manual data
+# removed this folder in later releases
+data/
